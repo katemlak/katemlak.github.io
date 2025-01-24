@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mardinkatemlak.com/sitemap.xml
